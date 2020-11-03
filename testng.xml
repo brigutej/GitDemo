@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Frameworks">
+  <test thread-count="5" name="datadriven">
+    <classes>
+    
+      <class name="DriverFactory.TestScript"/>
+      
+      
+    </classes>
+  </test> <!-- Test -->
+  <test thread-count="5" name="hybrid">
+    <classes>
+      
+      <class name="DriverFactory.AppTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

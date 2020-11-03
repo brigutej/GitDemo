@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Executing clickAction method]]>
+    </line>
+    <line>
+      <![CDATA[Executing clickAction method]]>
+    </line>
+    <line>
+      <![CDATA[Executing clickAction method]]>
+    </line>
+    <line>
+      <![CDATA[Executing clickAction method]]>
+    </line>
+    <line>
+      <![CDATA[Executing clickAction method]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40595" started-at="2020-10-16T21:15:49Z" finished-at="2020-10-16T21:16:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40595" started-at="2020-10-16T21:15:49Z" finished-at="2020-10-16T21:16:29Z">
+      <class name="DriverFactory.AppTest">
+        <test-method status="PASS" signature="kistStart()[pri:0, instance:DriverFactory.AppTest@5ed828d]" name="kistStart" duration-ms="40547" started-at="2020-10-16T21:15:49Z" finished-at="2020-10-16T21:16:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing clickAction method]]>
+            </line>
+            <line>
+              <![CDATA[Executing clickAction method]]>
+            </line>
+            <line>
+              <![CDATA[Executing clickAction method]]>
+            </line>
+            <line>
+              <![CDATA[Executing clickAction method]]>
+            </line>
+            <line>
+              <![CDATA[Executing clickAction method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- kistStart -->
+      </class> <!-- DriverFactory.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
